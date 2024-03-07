@@ -1,17 +1,17 @@
-#PaperPal
-#Stack Used:
+#PaperPal<br />
+#Stack Used:<br />
 
-  Language: Python
-  Libraries:
+  #Language: Python<br />
+  #Libraries:<br />
 	Streamlit for the web app interface.<br />
 	Tkinter for the desktop app interface.<br />
 	Pandas for data manipulation.<br />
 	PyMuPDF for PDF text extraction.<br />
 	Sumy for text summarization.<br />
-  Datasets used:
+  #Datasets used:<br />
 	https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts/data<br />
 
-#Description:
+#Description:<br />
 This project is a tool that serves as both a research paper recommendation system and a text summarization tool. It offers a streamlined interface for users to interact with. The research paper recommendation<br />feature allows users to input a research paper's name and receive recommendations for similar papers. This is achieved using a precomputed similarity matrix and a straightforward recommendation algorithm.<br />
 
 Additionally, the tool offers a text summarization feature for PDF files. Users can upload a PDF file, and the tool will extract text from the PDF, split it into sections based on headings, and summarize each <br />section using the LsaSummarizer algorithm. This feature is useful for quickly getting an overview of the content of a lengthy document.<br />
