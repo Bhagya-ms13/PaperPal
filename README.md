@@ -4,11 +4,11 @@
  # Language:<br />
   Python<br />
 # Libraries:<br />
-	Streamlit for web-app interface.<br />
-	Tkinter for desktop app interface.<br /> 
-	Pandas for data manipulation.<br />
-	PyMuPDF for PDF text extraction.<br />
-	Sumy for text summarization.<br />
+	Streamlit for web-app interface.
+	Tkinter for desktop app interface.
+	Pandas for data manipulation.
+	PyMuPDF for PDF text extraction.
+	Sumy for text summarization.
 # Datasets used:<br />
 	https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts/data
 
