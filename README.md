@@ -3,7 +3,7 @@
 
  # Language:<br />
   Python<br />
- # Libraries:<br />
+# Libraries:<br />
 	Streamlit for web-app interface.<br />
 	Tkinter for desktop app interface.<br /> 
 	Pandas for data manipulation.<br />
