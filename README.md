@@ -10,7 +10,7 @@
 	PyMuPDF for PDF text extraction.<br />
 	Sumy for text summarization.<br />
 # Datasets used:<br />
-	https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts/data<br />
+	https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts/data
 
 # Description:<br />
 This project is a tool that serves as both a research paper recommendation system and a text summarization tool. It offers a streamlined interface for users to interact with. The research paper recommendation<br />feature allows users to input a research paper's name and receive recommendations for similar papers. This is achieved using a precomputed similarity matrix and a straightforward recommendation algorithm.<br />
